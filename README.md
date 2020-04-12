@@ -10,6 +10,9 @@ Videos:
 1. [Deep Lizard Playlist](https://www.youtube.com/playli[st?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 2. [David Silver - Deep Mind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
+Tutorials:
+1. [Spinning Up from Open AI](https://spinningup.openai.com/en/latest/index.html
+
 Courses:
 1. [Practical Reinforcement Learning - Coursera](https://www.coursera.org/learn/practical-rl)
 
