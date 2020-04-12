@@ -7,8 +7,11 @@ Books:
 2. [
  
 Videos:
-1. [Deep Lizard Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+1. [Deep Lizard Playlist](https://www.youtube.com/playli[st?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 2. [David Silver - Deep Mind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+Courses:
+1. [Practical Reinforcement Learning - Coursera](https://www.coursera.org/learn/practical-rl)
 
 Blogs:
 1. [Connect 4 Implementation - AlphaGo Style](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a)
