@@ -20,6 +20,9 @@ Blogs:
 1. [Connect 4 Implementation - AlphaGo Style](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a)
 2. 
 
+Github and Projects:
+1. [RL code](https://github.com/rlcode/reinforcement-learning)
+
 Papers:
 1. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
 
