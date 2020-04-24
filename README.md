@@ -11,7 +11,9 @@ Videos:
 2. [David Silver - Deep Mind Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 Tutorials:
-1. [Spinning Up from Open AI](https://spinningup.openai.com/en/latest/index.html
+1. [Spinning Up from Open AI](https://spinningup.openai.com/en/latest/index.html)
+2. [PyTorch DQN Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+3. [A nice DQN tutorial](https://towardsdatascience.com/qrash-course-deep-q-networks-from-the-ground-up-1bbda41d3677)
 
 Courses:
 1. [Practical Reinforcement Learning - Coursera](https://www.coursera.org/learn/practical-rl)
