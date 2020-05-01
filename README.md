@@ -20,7 +20,7 @@ Courses:
 
 Blogs:
 1. [Connect 4 Implementation - AlphaGo Style](https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a)
-2. 
+2. [Maze Solving using Deep-Q nets](https://www.samyzaf.com/ML/rl/qmaze.html)
 
 Github and Projects:
 1. [RL code](https://github.com/rlcode/reinforcement-learning)
